@@ -1,113 +1,118 @@
-<!-- Neon Developer Banner -->
-<div align="center">
-  <img src="https://i.imgur.com/Drt7ZxC.gif" width="100%" />
-</div>
-
-<br>
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00E8FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Awaneesh+%F0%9F%91%8B;Full+Stack+Dev+in+Progress+%E2%9A%A1;AI+and+DSA+Learner+%F0%9F%94%AC;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C" />
-</div>
-
----
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/AwesomeGitHubProfile/BackgroundImages/main/BlueWaves/wave.svg" width="100%" />
-
-# 🌟 About Me
-
-- 🧠 CSE student learning AI + Full Stack  
-- 🔧 Practicing DSA, Java, Python  
-- ⚡ Building websites while learning MERN  
-- 🤝 Open to beginner-friendly collabs  
-- 🎨 Love mixing logic with creativity  
-- 🌱 Improving a little each day  
+<!-- 🌈 Neon Banner -->
+<p align="center">
+<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7f00ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e100ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="150" fill="#0d0d0d"/>
+  <rect width="100%" height="12" fill="url(#grad2)" />
+  <text x="50%" y="60%" font-size="34" font-family="Segoe UI" fill="#e100ff" text-anchor="middle">
+    Awaneesh Gupta
+  </text>
+  <text x="50%" y="78%" font-size="18" font-family="Segoe UI" fill="#ccc" text-anchor="middle">
+    AI • MERN • DSA
+  </text>
+</svg>
+</p>
 
 ---
 
-# ⚡ Learning Progress (Futuristic Glow)
-
-![Python](https://img.shields.io/badge/Python-70%25-00eaff?style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-60%25-00eaff?style=for-the-badge)  
-![React](https://img.shields.io/badge/React-55%25-00eaff?style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/Node.js-45%25-00eaff?style=for-the-badge)  
-![AI Basics](https://img.shields.io/badge/AI%20Basics-35%25-00eaff?style=for-the-badge)  
-![DSA](https://img.shields.io/badge/DSA-65%25-00eaff?style=for-the-badge)
+## 👋 Hi There  
+I'm **Awaneesh**, focused on **AI**, **MERN stack**, and **DSA**, learning by building real projects and growing step by step.
 
 ---
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/AwesomeGitHubProfile/BackgroundImages/main/NeonWaves/purple-lava.svg" width="100%" />
+## 🚀 What I'm Learning  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>  
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+</p>
 
-# 🚀 Tech Stack (Neon Animated)
+<p align="center">
+  Python • Java • React • Node.js • AI/ML • DSA
+</p>
 
-<div align="center">
+---
+
+## 🧰 Tech Stack  
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" height="55"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" height="50"/>
+</p>
+
+---
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="55"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" height="50"/>
+</p>
 
-### 🛠 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="55"/>
+---
 
-### 🗄 Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="55"/>
+### 🔧 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+</p>
+
+---
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"/>
+</p>
+
+---
 
 ### 🤖 AI / ML  
-<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>  
-<sub>+ NumPy, Pandas, Matplotlib</sub>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white" height="28"/>
+</p>
 
-### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="55"/>
+---
+
+### 🛠️ Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="50"/>
+</p>
+
+---
 
 ### 🎨 Design  
-<img src="https://skillicons.dev/icons?i=figma" height="55"/>  
-<sub>+ Canva, Framer</sub>
-
-</div>
-
----
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/AwesomeGitHubProfile/BackgroundImages/main/GradientWaves/blue-purple.svg" width="100%" />
-
-# 🔥 GitHub Stats (Neon Theme)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Awaneesh03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awaneesh03&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=Awaneesh03&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="50"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="28"/>
+</p>
 
 ---
 
-# 👀 Visitors  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Awaneesh03/count.svg" />
-</div>
+## 🎯 My Development Focus  
+
+- Master MERN stack  
+- Build AI-powered applications  
+- Improve DSA problem solving  
+- Explore UI/UX with Figma & Framer  
+- Build real-world portfolio projects  
+- Learn clean architecture  
 
 ---
 
-# ✨ Dev Quote  
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+## ✨ Dev Quote  
+<p align="center">
+  <em>"Once you stop learning, you start dying."</em>  
+  <br>— Albert Einstein
+</p>
 
 ---
 
-<!-- Final Wave -->
-<img src="https://raw.githubusercontent.com/AwesomeGitHubProfile/BackgroundImages/main/BlueWaves/wave.svg" width="100%" />
-
-<div align="center">
-
-### 🌌 Thanks for visiting  
-**You're improving every day. Keep going.** 💙✨
-
-</div>
+<p align="center">Made with ❤️ by Awaneesh</p>
