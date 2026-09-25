@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:e100ff&height=180&section=header&text=Awaneesh%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=58&descSize=16" alt="Awaneesh Gupta" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:e100ff&height=180&section=header&text=Awaneesh%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Co-founder%20%40%20FixKaru%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=58&descSize=16" alt="Awaneesh Gupta" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B44DFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+%40+Vedam+School+of+Technology;Building+Motif+%E2%80%94+AI+for+founders+%26+VCs;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Python;Contributing+to+open+source" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B44DFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+%40+Vedam+School+of+Technology;Co-founder+%40+FixKaru+%E2%80%94+doorstep+device+repair;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+TypeScript;Contributing+to+open+source" alt="Typing SVG" /></a>
 
+[![FixKaru](https://img.shields.io/badge/FixKaru-fixkaru.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fixkaru.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-mocha-cg9jyw53rm.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awaneesh-gupta)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kg3327949@gmail.com)
@@ -17,11 +18,24 @@
 
 I'm a **B.Tech Computer Science (AI)** student at **Vedam School of Technology** (2025 – 2029) who learns by shipping real projects — from AI-powered web platforms to local-first desktop apps.
 
-- 🚀 Building **[Motif](https://github.com/Awaneesh03/motif-website)** — an AI platform that helps founders validate startup ideas and reach VCs
+- 🔧 **Co-founder & Head of Product Engineering (Back-End) at [FixKaru](https://fixkaru.com)** — transparent doorstep phone repair in Pune: repaired in front of you, pay only after it works
+- 🚀 Previously built **[Motif](https://github.com/Awaneesh03/motif-website)** — an AI platform that helps founders validate startup ideas and reach VCs
 - 🗄️ Working on **[Vaultwork](https://github.com/Awaneesh03/vaultwork)** — a local-first productivity app (React + Tauri + Rust)
 - 🌱 Learning **Machine Learning**, **LangChain** and **Rust**
 - 🤝 Contributing to open source — **OpenSTEF**, **AOSSIE PictoPy**, **OWASP**
 - 🧩 Practising **DSA** on LeetCode, Codeforces and CodeChef
+
+---
+
+## 🔧 Currently Building — [FixKaru](https://fixkaru.com)
+
+**Doorstep device repair, built on trust.** Book a repair, a technician comes to you and fixes your phone in front of you — usually in about 30 minutes, with zero advance payment and a 12-month warranty.
+
+I lead the back-end engineering that powers it.
+
+`Java` `Spring Boot` `React` `TypeScript` `Supabase` · [fixkaru.com ↗](https://fixkaru.com)
+
+> My FixKaru work lives on a separate work account, so it doesn't show up in the repos below.
 
 ---
 
