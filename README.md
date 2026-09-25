@@ -147,8 +147,8 @@ My portfolio as a working macOS desktop in the browser — dock, windows, Spotli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Awaneesh03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awaneesh03&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awaneesh03&theme=tokyonight" height="165" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awaneesh03&theme=tokyonight" height="165" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Awaneesh03&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
